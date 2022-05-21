@@ -1,14 +1,19 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "status": "ok",
+    "datakaryawanreservation": [
+        {
+            "NIK": 1202,
+            "FlagVIP": 0,
+            "DivisionDescription": "National Network A",
+            "Email": "via.fahira@abcdefg.com",
+            "DefaultFloor": "2729-3"
+        },
+        {
+            "NIK": 1204,
+            "FlagVIP": 0,
+            "DivisionDescription": "National Network B",
+            "Email": "steven.steven@abcdefg.com",
+            "DefaultFloor": "4180-3"
+        }
+      ]
 }
